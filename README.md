@@ -3,6 +3,10 @@
 
 This DNS Assessment Script will run 1-1000 DNS queries, in each of the 11 categories, to see how implemented DNS security controls respond.
 
+**Download and Extract the zip file before following the instructions below. 
+
+***NOTE: When asked for a "Sinkhole", enter the IP address of any redirect or sinkhole used in your network. If none, just hit enter. 
+
 
 In order to run the scripts:
 
